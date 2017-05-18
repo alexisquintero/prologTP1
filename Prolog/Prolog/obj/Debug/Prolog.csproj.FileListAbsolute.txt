@@ -1,0 +1,6 @@
+C:\Users\Supervisor\Google Drive\UTN\IA\TP1\Programa en C#\Prolog\Prolog\bin\Debug\Prolog.exe.config
+C:\Users\Supervisor\Google Drive\UTN\IA\TP1\Programa en C#\Prolog\Prolog\bin\Debug\Prolog.exe
+C:\Users\Supervisor\Google Drive\UTN\IA\TP1\Programa en C#\Prolog\Prolog\bin\Debug\Prolog.pdb
+C:\Users\Supervisor\Google Drive\UTN\IA\TP1\Programa en C#\Prolog\Prolog\obj\Debug\Prolog.csprojResolveAssemblyReference.cache
+C:\Users\Supervisor\Google Drive\UTN\IA\TP1\Programa en C#\Prolog\Prolog\obj\Debug\Prolog.exe
+C:\Users\Supervisor\Google Drive\UTN\IA\TP1\Programa en C#\Prolog\Prolog\obj\Debug\Prolog.pdb

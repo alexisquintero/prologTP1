@@ -31,6 +31,7 @@ namespace Prolog
             nodos.ElementAt(0).agergarConexion(nodos.ElementAt(3)); //Ciudad 4
 
             //Ciudad 2 -> ciudad 3
+            nodos.ElementAt(1).agergarConexion(nodos.ElementAt(0)); //Ciudad 1, agregada para el punto e
             nodos.ElementAt(1).agergarConexion(nodos.ElementAt(2)); //Ciudad 3
             nodos.ElementAt(1).agergarConexion(nodos.ElementAt(4)); //Ciudad 5, agregada para el punto d
 
